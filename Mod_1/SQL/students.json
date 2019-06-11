@@ -65,7 +65,7 @@
 },
 {"name" : "Jeremy Reikes" ,
 "birthdate" : "1-/12/1995",
-"siblings" : ,
+"siblings" : 1,
 "Birthplace" : "New York City",
 "yearsinnyc" : 23,
 "favoritefood" : "Pizza"},
