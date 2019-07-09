@@ -2,3 +2,4 @@
 .DS_Store
 .ipynb_checkpoints/
 /Mod_2/gitignore/text.py
+/Mod_2/nosql_mongo/password.py
